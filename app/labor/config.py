@@ -1,0 +1,1 @@
+LABOR_TABLE_ID = 1
